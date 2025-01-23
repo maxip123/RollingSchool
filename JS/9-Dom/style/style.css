@@ -1,0 +1,10 @@
+body{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+main{
+    flex-grow: 1;
+}
+/* Con lo de arriba hacemos que el footer este siempre abajo , QUE NO SE PORQUE NO ME ANDA */ 
