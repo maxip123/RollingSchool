@@ -29,7 +29,7 @@ Repositorio con lo visto en Rolling, este readme esta hecho con lenguaje Mackdow
 * Objeto 3
 * Objeto 4
 <!-- Ejemplo de lista -->
->[!IMPORTANT]
+> **¡IMPORTANTE!**
 > Mensaje Importante
 
 ``` 
