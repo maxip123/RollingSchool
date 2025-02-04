@@ -1,4 +1,4 @@
-import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";// Tambien existe React boostrap que es un boostrap hecho para react que no se uso en este caso
 import "./App.css"
 import Informacion from './Components/Informacion';//importamos el componente de informacion y lo usamos 
 import Contador from "./Components/Contador";
