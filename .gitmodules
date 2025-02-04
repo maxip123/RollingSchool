@@ -1,0 +1,6 @@
+[submodule "ejerciciosHechos/frasesSimpson"]
+	path = ejerciciosHechos/frasesSimpson
+	url = https://github.com/rollingcodeschool/frasesSimpson-c89i.git
+[submodule "ejerciciosHechos/ListaTareas"]
+	path = ejerciciosHechos/ListaTareas
+	url = https://github.com/rollingcodeschool/ListaTareas-C89i.git
