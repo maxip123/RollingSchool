@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file .env --watch index.js"
+  },
+  "keywords": [
+    "sda"
+  ],
+  "author": "Prieto Maximiliano",
+  "license": "ISC",
+  "description": "backend",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "morgan": "^1.10.0"
+  }
+}
